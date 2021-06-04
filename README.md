@@ -3,7 +3,10 @@
 This library supports generating and decoding [JSON Web Tokens](http://tools.ietf.org/html/draft-jones-json-web-token-10).
 
 ## Installation
-The easiest way to install is via NuGet.  See [here](https://nuget.org/packages/JWT).  Else, you can download and compile it yourself.
+The easiest way to install is downloading this repository and placing the JWT on your Unity project
+
+## Dependency
+Requires [Newtonsoft Json](https://github.com/JamesNK/Newtonsoft.Json)
 
 ## Usage
 ### Creating Tokens
